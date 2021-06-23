@@ -7,7 +7,7 @@ export default function App() {
   let books = [
     {title: 'Dune', description: 'Un livre avec beaucoup de sable'},
     {title: 'Mer', description: "Un livre avec beaucoup d'eau"},
-    {title: 'Forêt', description:"C'est boisé par ici"},
+    {title: 'Forêt', description:"C'est boisé par ici.."},
     {title: 'Montagne', description:"C'est un peu haut là.."},
     {title: 'Marais', description:"Quelque chose m'a touché le pied"},
     {title: 'Savane', description:'Graouh, dit-alors le lion'},
